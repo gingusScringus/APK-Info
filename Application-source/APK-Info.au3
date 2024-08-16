@@ -1,17 +1,20 @@
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
-#AutoIt3Wrapper_OutFile=..\APK-Info.exe
-#AutoIt3Wrapper_icon=APK-Info.ico
-#AutoIt3Wrapper_UseUpx=n
-#AutoIt3Wrapper_UseX64=n
+#AutoIt3Wrapper_Icon=APK-Info.ico
+#AutoIt3Wrapper_Outfile=..\APK-Info.exe
+#AutoIt3Wrapper_Outfile_x64=..\APK-Info_x64.exe
+#AutoIt3Wrapper_Compile_Both=y
 #AutoIt3Wrapper_Res_Comment=Shows info about Android Package Files (APK)
 #AutoIt3Wrapper_Res_Description=APK-Info
+#AutoIt3Wrapper_Res_Fileversion=1.36.0.0
+#AutoIt3Wrapper_Res_Fileversion_AutoIncrement=y
+#AutoIt3Wrapper_Res_ProductName=APK-Info
+#AutoIt3Wrapper_Res_ProductVersion=1.36
 #AutoIt3Wrapper_Res_LegalCopyright=zoster
-#AutoIt3Wrapper_Res_Fileversion=1.35.0.0
 #EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
 #pragma compile(AutoItExecuteAllowed True)
 
-$ProgramVersion = "1.35"
-$ProgramReleaseDate = "03.07.2019"
+$ProgramVersion = "1.36"
+$ProgramReleaseDate = "16.08.2024"
 $ProgramName = 'APK-Info'
 
 #include <Constants.au3>
