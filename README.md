@@ -1,7 +1,7 @@
 # APK-Info
 A tool for viewing detailed info on an APK file.
 
-Apperantly, this program has been forked, and modified a LOT of times. See the original README for the list of evolution of this program.
+Apperantly, this program has been forked, and modified a LOT of times. See the original README (the upstream repository's readme) for the list of evolution of this program.
 ## Screenshot
 ![image](https://github.com/user-attachments/assets/dab808c8-cf05-4fa5-bfe4-869e1c8f4cce)
 
